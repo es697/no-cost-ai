@@ -96,8 +96,8 @@
 | [newpc.icoding.ink](https://newpc.icoding.ink/?debug=true) |`chatgpt-4.1-nano`, `o4-mini`, `chatgpt-4o-mini`, `claude-3.5-haiku`, `grok-3-mini`, `gemini-flash-8b`, `deepseek-v3`|Unlimited|
 | [deepinfra.com/chat](https://deepinfra.com/chat) |`OpenAI GPT OSS 120B`, `Kimi K2`, `GLM 4.5`, `Qwen3 Coder Turbo`, `DeepSeek R1 0528 Turbo`, `DeepSeek V3 0324 Turbo`, `Llama 4 Maverick Turbo`|Unlimited|
 | [kimi.com](https://kimi.com) |`K2`, `K1.5` | some usage more if you signup or host the model urself its opensource|
-| [gemini.google.com](https://gemini.google.com) | `gemini-2.5-fast` | 32,000 tokens, 5-10 prompts per day, No Image-File-Audio-Generation |
-| [copilot.microsoft.com](https://copilot.microsoft.com) | `gpt-5` | Unlimited, 1 image per day|
+| [gemini.google.com](https://gemini.google.com) | `gemini-2.5-fast` | `32,000 tokens`, `5-10 prompts` per day, No Image-File-Audio-Generation |
+| [copilot.microsoft.com](https://copilot.microsoft.com) | `gpt-5` | Unlimited, `1` image per day|
 
 ### Media Generation
 #### (Image‑/Video‑/Multimodal)
@@ -125,7 +125,7 @@
 | --- | --- | --- |
 | [github/ollamafreeapi](https://github.com/mfoud444/ollamafreeapi/) |`To many to list..`|Unknown|
 | [ollama.com](https://ollama.com) |`To many to list..`|Unlimited run on cloud or local machine|
-| [g4f.dev](https://g4f.dev/docs/ready_to_use.html) | `qroq`, `ollama`, `pollinations.ai`, `nvidia`, `grok`, `gemini`, `gpt-oss-120b` (requires g4f.dev [Api Key](https://g4f.dev/api_key.html) Just type a random userId) | Unlimited|
+| [g4f.dev](https://g4f.dev/docs/ready_to_use.html) | `qroq`, `ollama`, `pollinations.ai`, `nvidia`, `grok`, `gemini`, `gpt-oss-120b` (requires g4f.dev [Api Key](https://g4f.dev/api_key.html) Just type a random `userId`) | Unlimited|
 
 ---
 
@@ -140,24 +140,23 @@
 | [origin.eqing.tech](https://origin.eqing.tech/), Backup [site.eqing.tech](https://site.eqing.tech/) |`gpt-4o-mini`, `gpt-4o-mini-image-free`, `gpt-4o-free`, `grok-3-free`, `gemini-2.0-flash-free`, `gemini-2.5-flash-free`, `gpt-4o-research-free`, `gpt-4o-all`, `gpt-4o-image`, `o4-mini`, `deepseek-v3-250324`, `claude-3.7-sonnet`, `grok-3`, `deepseek-r1-250528`, `grok-3-reasoner`, `grok-3-deepsearch`, `claude-4-sonnet`, `gemini-2.5-pro-preview-06-05`, `gpt-4o`, `gpt-4.1`, `gpt-4-5`, `o3`, `o4-mini-high`, `stable-diffusion-xl`|Unlimited|
 | [huggingface.co](https://huggingface.co/spaces) | Too many to list.. | Unlimited, User Generated Content|
 | [claude.ai](https://claude.ai) | `claude-sonnet-4.5`, `claude-haiku-4.5` | Usage limit Depending on Demand, resets every 5 hours|
-| [writesonic.com](https://writesonic.com/chat) | `claude-sonnet-3.5`, `gpt-4o`, `claude-opus`, `claude-3-haiku`, `gpt-4o-mini` | Only available to 150+ Contries, 10,000 premium credits per month, 25-50 credits one time|
+| [writesonic.com](https://writesonic.com/chat) | `claude-sonnet-3.5`, `gpt-4o`, `claude-opus`, `claude-3-haiku`, `gpt-4o-mini` | Only available to 150+ Contries, `10,000 premium credits` per month, `25-50 credits` one time|
 | [character.ai](https://character.ai) | `char.ai`| Unlimited, But with wait times, slower response speeds, and the presence of pop-up ads |
-| [gemini.google.com](https://gemini.google.com) | `gemini-3-fast`, `gemini-3-thinking`, `gemini-3-nano-banana-standard`| 128,000 tokens, 100 images per day, 5 reports per month (fast), 20 audio overviews per day, 10 files (100 mb file size, 2GB for videos) |
-| [copilot.microsoft.com](https://copilot.microsoft.com) | `gpt-5.1` | Unlimited, 1 image per day, with Deep Research enabled and 10+ Group Chats|
-| [chat.deepseek.com](https://chat.deepseek.com) | `deepseek-v3.2`, `deepseek-r1`, `deepseek-coder-v2` | 20k-30k tokens, Politically Biased |
+| [gemini.google.com](https://gemini.google.com) | `gemini-3-fast`, `gemini-3-thinking`, `gemini-3-nano-banana-standard`| `128,000 tokens`, `100 images` per day, `5 reports` per month (fast), `20 audio overviews` per day, `10 files` (`100 MB` file size, `2 GB` for videos) |
+| [copilot.microsoft.com](https://copilot.microsoft.com) | `gpt-5.1` | Unlimited, 1 image per day, with Deep Research enabled and `10+ Group Chats`|
+| [chat.deepseek.com](https://chat.deepseek.com) | `deepseek-v3.2`, `deepseek-r1`, `deepseek-coder-v2` | `20k-30k tokens`, Politically Biased |
 
 ### Media Generation
 #### (Image‑/Video‑/Multimodal)
 | Link | Free Models | Limits |
 | --- | --- | --- |
 | [bing.com](https://www.bing.com/images/create) | `dall-e-3`| Unlimited |
-| [designer.microsoft.com](https://designer.microsoft.com) | `dall-e-3`| 15-16 montlhy credits, For Non-Comercial/Personal Use Only|
-| [leonardo.ai](https://leonardo.ai) | `leonardo-pheonix`, `leonardo-vision-xl`, `leonardo-diffusion-xl`, `leonardo-lighting-xl`, `leonardo-kino-xl`, `leonardo-anime-xl`, `lucid-origin`, `lucid-realism`, `motion-1.0`, `motion-2.0`, `veo-3`, `veo-3.1`, `gpt-image-1`, `flux.1`, `kontext`, `flux-kontext-max`, `ideogram-3.0`, `sora-2`, `sora-2-pro`, `kling-2.5-turbo`, `kling-2.1-pro` and other Community Trained Models| 150 fast tokens per day, Leonardo has rights to your output |
+| [designer.microsoft.com](https://designer.microsoft.com) | `dall-e-3`| `15-16 montlhy credits`, For Non-Comercial/Personal Use Only|
+| [leonardo.ai](https://leonardo.ai) | `leonardo-pheonix`, `leonardo-vision-xl`, `leonardo-diffusion-xl`, `leonardo-lighting-xl`, `leonardo-kino-xl`, `leonardo-anime-xl`, `lucid-origin`, `lucid-realism`, `motion-1.0`, `motion-2.0`, `veo-3`, `veo-3.1`, `gpt-image-1`, `flux.1`, `kontext`, `flux-kontext-max`, `ideogram-3.0`, `sora-2`, `sora-2-pro`, `kling-2.5-turbo`, `kling-2.1-pro` and other Community Trained Models| `150 fast tokens` per day, Leonardo has rights to your output |
 | [firefly.adobe.com](https://firefly.adobe.com) | `firefly-image-model-5`, `firefly-video-model`, and other pro models| 25 credits one time|
-| [runwayml.com](https://runwayml.com) | Gen-3/Gen-4 (Alpha/Turbo) | 125 credits one time, with Watermark |
-| [pika.art](https://pika.art) | `pika-1.5`, `pika-2.5` | 80 credits per month (5-8 images per month), with Watermark|
-| [suno.com](https://suno.com) | `suno-v4.5-all` | 50 credits per day (10 Songs per day) |
-| [www.udio.com](https://www.udio.com) | Udio music models | 10 credits per day (3-5 songs per day) |
+| [pika.art](https://pika.art) | `pika-1.5`, `pika-2.5` | `80 credits` per month (5-8 images per month), with Watermark|
+| [suno.com](https://suno.com) | `suno-v4.5-all` | `50 credits` per day (10 Songs per day) |
+| [www.udio.com](https://www.udio.com) | Udio music models | `10 credits` per day (3-5 songs per day) |
 | [krea.ai](https://www.krea.ai) | `krea-1`, `flux.1-krea`, and other SD/Flux based models | 50 generations per day, with Watermark |
 | [app.pixverse.ai](https://app.pixverse.ai) | PixVerse video | 50-60 per day, 540p or 750p output, with Watermark |
 | [ideogram.ai](https://ideogram.ai) | `ideogram-3.0`, `ideogram-3.0-turbo` | 10 credits per week (40 images per week), with Watermark |
