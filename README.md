@@ -150,7 +150,7 @@
 #### (Image‑/Video‑/Multimodal)
 | Link | Free Models | Limits |
 | --- | --- | --- |
-| [bing.com](https://www.bing.com/images/create) | `dall-e-3`, mai-image-1`, `gpt-4o`| Unlimited |
+| [bing.com](https://www.bing.com/images/create) | `dall-e-3`, `mai-image-1`, `gpt-4o`| Unlimited |
 | [designer.microsoft.com](https://designer.microsoft.com) | `dall-e-3`| `15-16 montlhy credits`, For Non-Comercial/Personal Use Only|
 | [leonardo.ai](https://leonardo.ai) | `leonardo-pheonix`, `leonardo-vision-xl`, `leonardo-diffusion-xl`, `leonardo-lighting-xl`, `leonardo-kino-xl`, `leonardo-anime-xl`, `lucid-origin`, `lucid-realism`, `motion-1.0`, `motion-2.0`, `veo-3`, `veo-3.1`, `gpt-image-1`, `flux.1`, `kontext`, `flux-kontext-max`, `ideogram-3.0`, `sora-2`, `sora-2-pro`, `kling-2.5-turbo`, `kling-2.1-pro` and other Community Trained Models| `150 fast tokens` per day, Leonardo has rights to your output |
 | [firefly.adobe.com](https://firefly.adobe.com) | `firefly-image-model-5`, `firefly-video-model`, and other pro models| 25 credits one time|
