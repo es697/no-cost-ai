@@ -70,7 +70,6 @@
 | --- | --- | --- |
 | [lmarena.ai](https://lmarena.ai/) | 40+|`Unlimited`|
 | [g4f.dev](https://g4f.dev/) | `200+ tons of local models`|`Unlimited`|
-| [mirexa.vercel.app](https://mirexa.vercel.app/) |`deepseek-v3`, `gpt-4.1`, `gpt-4.1-mini`, `gpt-4.1-nano`, `qwen2.5-coder-32b`, `mirexa`, `llama-4-scout-17b`, `mistral-small-3.1`, `phi-4`, `evil-mode` | Unlimited |
 | [meta.ai](https://www.meta.ai) | `Llama 4` |`Unlimited/Unkown`|
 | [sharedchat.cn](https://sharedchat.cn)|`gpt-4o`, `o3`, `o3-pro`, `o4-mini`, `o4-mini-high`|`Unlimited` but may be hard to get a responce as many others use it aswell but it really does work|
 | [phind.com](https://www.phind.com) | `Phind-70B`|`Unlimited`|
