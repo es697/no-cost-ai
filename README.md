@@ -14,13 +14,10 @@
 ![No Sign Up Required](https://img.shields.io/badge/No--Signup--Required-darkgreen)
 | Topic | Links |
 | --- | --- |
-| [💬 Chat](#chat-interfaces)| 29
+| [💬 Chat](#chat-interfaces)| 31
 | [🎞️ Media](#media-generation)| 5
 | [🗣️ Voice](#voice--music)| 3
-| [💬 Chat](#chat-interfaces)| 31
 | [🎞️ Media](#media-generation)| 4
-| [🗣️ Voice](#voice--music)| 1
-| [🖥️ IDEs](#ai-ides) | 0
 | [🔧 APIs](#developer-apis--platforms) | 3
 
 </h2> 
