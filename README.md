@@ -17,6 +17,9 @@
 | [💬 Chat](#chat-interfaces)| 29
 | [🎞️ Media](#media-generation)| 5
 | [🗣️ Voice](#voice--music)| 3
+| [💬 Chat](#chat-interfaces)| 31
+| [🎞️ Media](#media-generation)| 4
+| [🗣️ Voice](#voice--music)| 1
 | [🖥️ IDEs](#ai-ides) | 0
 | [🔧 APIs](#developer-apis--platforms) | 3
 
@@ -98,6 +101,11 @@
 | [kimi.com](https://kimi.com) |`K2`, `K1.5` | some usage more if you signup or host the model urself its opensource|
 | [gemini.google.com](https://gemini.google.com) | `gemini-2.5-fast` | `32,000 tokens`, `5-10 prompts` per day, No Image-File-Audio-Generation |
 | [copilot.microsoft.com](https://copilot.microsoft.com) | `gpt-5` | Unlimited, `1` image per day|
+| [theoldllm.vercel.app](https://theoldllm.vercel.app/) | Unknown | Unknown |
+
+
+
+
 
 ### Media Generation
 #### (Image‑/Video‑/Multimodal)
