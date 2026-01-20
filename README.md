@@ -15,7 +15,7 @@
 ![No Sign Up Required](https://img.shields.io/badge/No--Signup--Required-darkgreen)
 | Topic | Links |
 | --- | --- |
-| [💬 Chat](#chat-interfaces)| 31
+| [💬 Chat](#chat-interfaces)| 30
 | [🎞️ Media](#media-generation)| 5
 | [🗣️ Voice](#voice--music)| 3
 | [🎞️ Media](#media-generation)| 4
@@ -35,7 +35,7 @@
 | --- | --- |
 | [💬 Chat](#chat-interfaces-1) | 14
 | [🎞️ Media](#media-generation-1) | 11
-| [🗣️ Voice](#voice--music-1) | 5
+| [🗣️ Voice](#voice--music-1) | 4
 | [🖥️ IDEs](#ai-ides-1) | 2
 | [🔧 APIs](#developer-apis--platforms-1) | 15
 </h2> 
@@ -94,7 +94,6 @@
 | [chat2.free2gpt.com]() | `gpt-4o-mini`, `wbot-t1-mini`, `wbot-4-347b`, `deepseek-chat`, `deepseek-coder`, `ds-r1-distill-70b`, `wbot-2`, `wbot-2-friend`, `wbot-2-cat-v2`, `wbot-2-cat-m`, `gpt-4.1-mini`| Allow Alot of requests also has JB prompts and loads of inbuilt options|
 | [free.netfly.top](https://free.netfly.top/) | `GPT-40-mini` |Unlimited|
 | [chat.ai365vip.com](https://chat.ai365vip.com/en) |`GPT-4o` |Unlimited|
-| [newpc.icoding.ink](https://newpc.icoding.ink/?debug=true) |`chatgpt-4.1-nano`, `o4-mini`, `chatgpt-4o-mini`, `claude-3.5-haiku`, `grok-3-mini`, `gemini-flash-8b`, `deepseek-v3`|Unlimited|
 | [deepinfra.com/chat](https://deepinfra.com/chat) |`OpenAI GPT OSS 120B`, `Kimi K2`, `GLM 4.5`, `Qwen3 Coder Turbo`, `DeepSeek R1 0528 Turbo`, `DeepSeek V3 0324 Turbo`, `Llama 4 Maverick Turbo`|Unlimited|
 | [kimi.com](https://kimi.com) |`K2`, `K1.5` | some usage more if you signup or host the model urself its opensource|
 | [gemini.google.com](https://gemini.google.com) | `gemini-2.5-fast` | `32,000 tokens`, `5-10 prompts` per day, No Image-File-Audio-Generation |
@@ -174,7 +173,6 @@
 | --- | --- | --- |
 | [elevenlabs.io](https://elevenlabs.io) | Eleven v2/v3 TTS | ~10k chars/month |
 | [stableaudio.com](https://stableaudio.com) | Stable Audio Open | Short clips, monthly cap |
-| [play.ht](https://play.ht) | PlayHT TTS | Limited characters |
 | [riffusion.com](https://www.riffusion.com) | Riffusion music | Limited generations |
 | [uberduck.ai](https://www.uberduck.ai) | Uberduck TTS | Credit based |
 
