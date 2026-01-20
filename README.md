@@ -3,7 +3,7 @@
 ### Spend 0$ on Ai-Models!
 
 #### A living index for developers, researchers & curious builders contributions is welcome & appriciated!
-*No signup Picture/Video/Chat generation [img-seven-sage](https://img-seven-sage.vercel.app/)*
+*No signup Picture/Video/Chat generation [nocostai.vercel.app](https://nocostai.vercel.app/)*
 
 ![Free‑AI](https://img.shields.io/badge/Free--AI-List-blue)
 ![Status](https://img.shields.io/badge/Status-Active-green)
